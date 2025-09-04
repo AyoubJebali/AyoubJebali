@@ -13,6 +13,21 @@ My preferred role is as a **Software Engineer**, and I enjoy tackling challengin
 
 ---
 
+## 🎓 Education
+
+- **Master of Science in Computer Science**  
+  *University of Passau*  
+  *2024-Present*
+
+- **Bachelor of Science in Computer Engineering:Embedded Systems and IoT**  
+  *University of Tunis Manar: Faculty of Science of Tunis*  
+  *2020-2023*
+
+
+<!-- Add other degrees/certificates here if relevant -->
+
+---
+
 ## 🚀 Top Skills & Technologies
 
 - C / C++
@@ -26,7 +41,15 @@ I love working with algorithms, solving problems, and continuously expanding my 
 
 ## 🌟 Featured Projects
 
-*(Showcase coming soon! Stay tuned for some of my favorite and most impactful repositories.)*
+| Project Name        | Description (customize!) | Link                                      |
+|---------------------|-------------------------|--------------------------------------------|
+| Sanefli             | [Add a short description here] | [Sanefli](https://github.com/AyoubJebali/Sanefli)       |
+| AngularQuiz         | [Add a short description here] | [AngularQuiz](https://github.com/AyoubJebali/AngularQuiz)   |
+| projetc-incubateur  | [Add a short description here] | [projetc-incubateur](https://github.com/AyoubJebali/projetc-incubateur) |
+| ShadowRealms        | [Add a short description here] | [ShadowRealms](https://github.com/AyoubJebali/ShadowRealms) |
+| FitSwing            | [Add a short description here] | [FitSwing](https://github.com/AyoubJebali/FitSwing)         |
+
+*Feel free to update the description for each project to best showcase your work and impact!*
 
 ---
 
