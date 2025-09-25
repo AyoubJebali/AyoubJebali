@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm AyoubJebali!
+# 👋 Hi there, I'm Ayoub Jebali!
 
 Welcome to my GitHub profile! 🚀  
 Here you'll find my journey as a developer, favorite projects, and the skills I'm passionate about.  
