@@ -49,7 +49,6 @@ I love working with algorithms, solving problems, and continuously expanding my 
 | ShadowRealms        | [Add a short description here] | [ShadowRealms](https://github.com/AyoubJebali/ShadowRealms) |
 | FitSwing            | [Add a short description here] | [FitSwing](https://github.com/AyoubJebali/FitSwing)         |
 
-*Feel free to update the description for each project to best showcase your work and impact!*
 
 ---
 
