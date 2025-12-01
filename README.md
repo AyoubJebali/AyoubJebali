@@ -39,19 +39,6 @@ I love working with algorithms, solving problems, and continuously expanding my 
 
 ---
 
-## 🌟 Featured Projects
-
-| Project Name        | Description (customize!) | Link                                      |
-|---------------------|-------------------------|--------------------------------------------|
-| Sanefli             | [Add a short description here] | [Sanefli](https://github.com/AyoubJebali/Sanefli)       |
-| AngularQuiz         | [Add a short description here] | [AngularQuiz](https://github.com/AyoubJebali/AngularQuiz)   |
-| projetc-incubateur  | [Add a short description here] | [projetc-incubateur](https://github.com/AyoubJebali/projetc-incubateur) |
-| ShadowRealms        | [Add a short description here] | [ShadowRealms](https://github.com/AyoubJebali/ShadowRealms) |
-| FitSwing            | [Add a short description here] | [FitSwing](https://github.com/AyoubJebali/FitSwing)         |
-
-
----
-
 ## 📫 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/ayoub-jebali-94702823b/)
