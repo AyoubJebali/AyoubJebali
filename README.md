@@ -1,11 +1,7 @@
 # 👋 Hi there, I'm Ayoub Jebali!
 
 Welcome to my GitHub profile! 🚀  
-Here you'll find my journey as a developer, favorite projects, and the skills I'm passionate about.  
-I'm always eager to learn, collaborate, and contribute to the open-source community.
-
 ---
-
 ## 🧑‍🎓 About Me
 
 I'm currently a Master's student at the University of Passau, pursuing my passion for software engineering.  
@@ -48,7 +44,7 @@ I love working with algorithms, solving problems, and continuously expanding my 
 ## 🎮 Fun Facts & Interests
 
 - I enjoy problem solving and working on algorithms.
-- I'm passionate about video games and the gaming industry.
+- I'm passionate about video games and the gaming industry, sports and gym.
 - Always up for a challenge or a new learning opportunity!
 
 ---
